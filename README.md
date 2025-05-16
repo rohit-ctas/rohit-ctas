@@ -28,7 +28,7 @@ public class Rohit {
 ```
 ### work capabilities :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,git,angular,react,mongodb,figma,c,nextjs,github,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,git,angular,react,mongodb,nodejs,figma,c,nextjs,github,python)](https://skillicons.dev)
 <br/>
 
 ### 📊 Github Stats
