@@ -5,30 +5,30 @@
 </em></p>
 
 
-[![Linkedin: pratikmehta07](https://img.shields.io/badge/-Pratik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pratikmehta07)](https://www.linkedin.com/in/pratikmehta07)
+[![Linkedin: Rohit-undhad-3654a5311](https://img.shields.io/badge/-Rohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-undhad-3654a5311/)](https://www.linkedin.com/in/rohit-undhad-3654a5311)
 [![GitHub rohit-ctas](https://img.shields.io/github/followers/rohit-ctas?label=follow&style=social)](https://github.com/rohit-ctas)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A bit more about myself...   
 
 ```javascript
-public class Pratik {
+public class Rohit {
     public static void main(String[] args) {
-        var moniker = "Prem";
+        var moniker = "Bholu";
         var pronouns = "he/him";
         var codeSkills = List.of("HTML", "CSS","C","Bootstrap","JavaScript","TypeScript","PHP","Python","Java","Asp.Net","MySql");
         var tools = List.of("VS Code ", "GitHub Copilot","XCode");
         var interests = List.of( "AI", "Machine Learning", "Team Building","Server Management","Leadership");
-        var currentOS = "MacOs";
+        var currentOS = "Linux";
         var experience = "2 year in web dev";
-        var education = "Bachelor's in Computer Science";
+        var education = "Bachelor's in Computer Application";
     }
 }
 
 ```
 ### work capabilities :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,php,git,mysql,wordpress,figma,c,cpp,dart,flutter,nextjs,github,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,git,angular,react,mongodb,figma,c,nextjs,github,python)](https://skillicons.dev)
 <br/>
 
 ### 📊 Github Stats
@@ -49,7 +49,7 @@ Please ping me if you want to chat to me about anything, have a question, or sim
 <a href="mailto:premmehta7607@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="/assets/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/pratikmehta07">
+<a href="https://www.linkedin.com/in/rohit-undhad-3654a5311">
   <img align="left" alt="Linkedin" width="130" hight="100" src="/assets/linkedin.png" />
 </a>
  </p>
