@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=pm7607&style=flat-square&color=green" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=rohit-ctas&style=flat-square&color=green" alt=""/>
 <h2> Hi, I'm Rohit Undhad! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="/assets/output-onlinegiftools.gif" width="400">
 <p><em>Developer at <a href="https://titanslab.in">TitansLab Inc.</a><img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" width="30"> 
@@ -6,7 +6,7 @@
 
 
 [![Linkedin: pratikmehta07](https://img.shields.io/badge/-Pratik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pratikmehta07)](https://www.linkedin.com/in/pratikmehta07)
-[![GitHub pm7607](https://img.shields.io/github/followers/pm7607?label=follow&style=social)](https://github.com/pm7607)
+[![GitHub rohit-ctas](https://img.shields.io/github/followers/rohit-ctas?label=follow&style=social)](https://github.com/rohit-ctas)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A bit more about myself...   
@@ -32,9 +32,9 @@ public class Pratik {
 <br/>
 
 ### 📊 Github Stats
-![Pratik GitHub stats](https://github-readme-stats.vercel.app/api?username=pm7607&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pm7607&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
-![Pratik GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pm7607&hide=html,css,shaderlab,kotlin,hlsl&theme=radical)<br>
+![Pratik GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit-ctas&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rohit-ctas&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
+![Pratik GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-ctas&hide=html,css,shaderlab,kotlin,hlsl&theme=radical)<br>
 # Reach out to Me  :
 
 <p>
