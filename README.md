@@ -32,9 +32,9 @@ public class Pratik {
 <br/>
 
 ### 📊 Github Stats
-![Pratik GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit-ctas&show_icons=true&theme=radical)
+![Rohit GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit-ctas&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rohit-ctas&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
-![Pratik GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-ctas&hide=html,css,shaderlab,kotlin,hlsl&theme=radical)<br>
+![Rohit GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-ctas&hide=html,css,shaderlab,kotlin,hlsl&theme=radical)<br>
 # Reach out to Me  :
 
 <p>
