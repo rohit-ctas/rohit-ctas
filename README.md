@@ -32,9 +32,9 @@ public class Rohit {
 <br/>
 
 ### 📊 Github Stats
-![Rohit GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit-ctas&show_icons=true&theme=radical)
+![Rohit GitHub stats](https://github-readme-stats.vercel.app/api?username=azure-sdk&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azure-sdk&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
-![Rohit GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-ctas&hide=html,css,shaderlab,kotlin,hlsl&theme=radical)<br>
+![Rohit GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=azure-sdk&hide=html,css,shaderlab,kotlin,hlsl&theme=radical)<br>
 # Reach out to Me  :
 
 <p>
