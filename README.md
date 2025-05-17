@@ -33,7 +33,7 @@ var education = "Bachelor's in Computer Application";
 ### work capabilities :
 
 [![My
-Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,git,angular,react,mongodb,nodejs,ts,figma,c,nextjs,github,python)](https://skillicons.dev)
+Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,git,angular,react,mongodb,nodejs,Ts,figma,c,nextjs,github,python)](https://skillicons.dev)
 <br />
 
 ### 📊 Github Stats
