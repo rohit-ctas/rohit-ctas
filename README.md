@@ -33,7 +33,7 @@ var education = "Bachelor's in Computer Application";
 ### work capabilities :
 
 [![My
-Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,git,angular,react,mongodb,nodejs,Ts,figma,c,nextjs,github,python)](https://skillicons.dev)
+Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,git,angular,react,mongodb,nodejs,ts,figma,c,nextjs,github,python)](https://skillicons.dev)
 <br />
 
 ### 📊 Github Stats
@@ -45,23 +45,21 @@ stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-ctas
 # Reach out to Me :
 
 <p>
-    </br>
+ </br>
 
 
-    <img hight="320" width="450" align="right" alt="GIF"
-        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjIwZzc0ZGhmZTBwbG5wOWVpbnhsbTJ2eWRqMm9renF2ejVkMnJqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TuDyQjiZGWwQ8j3DAr/giphy.webp">
+<img hight="320" width="450" align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjIwZzc0ZGhmZTBwbG5wOWVpbnhsbTJ2eWRqMm9renF2ejVkMnJqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TuDyQjiZGWwQ8j3DAr/giphy.webp">
 
 
-    Please ping me if you want to chat to me about anything, have a question, or simply want to hang out and play games
-    😝
-    <br />
-    <a href="mailto:premmehta7607@gmail.com">
-        <img align="left" alt="Gmail" width="130" hight="100" src="/assets/gmail.png" />
-    </a>
-    <a href="https://www.linkedin.com/in/rohit-undhad-3654a5311">
-        <img align="left" alt="Linkedin" width="130" hight="100" src="/assets/linkedin.png" />
-    </a>
-</p>
+Please ping me if you want to chat to me about anything, have a question, or simply want to hang out and play games 😝
+<br/>
+<a href="mailto:premmehta7607@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="/assets/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/pratikmehta07">
+  <img align="left" alt="Linkedin" width="130" hight="100" src="/assets/linkedin.png" />
+</a>
+ </p>
 </br>
 </br>
 </br>
