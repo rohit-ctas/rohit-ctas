@@ -41,11 +41,11 @@ public class Rohit {
     </br>
 
 
-    <img hight="320" width="450" align="right" alt="GIF"
+<img hight="320" width="450" align="right" alt="GIF"
         src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjIwZzc0ZGhmZTBwbG5wOWVpbnhsbTJ2eWRqMm9renF2ejVkMnJqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TuDyQjiZGWwQ8j3DAr/giphy.webp">
 
 
-    Please ping me if you want to chat to me about anything, have a question, or simply want to hang out and play games
+Please ping me if you want to chat to me about anything, have a question, or simply want to hang out and play games
     😝
     <br />
     <a href="mailto:premmehta7607@gmail.com">
