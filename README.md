@@ -48,10 +48,10 @@ public class Rohit {
 Please ping me if you want to chat to me about anything, have a question, or simply want to hang out and play games
     😝
     <br />
-    <a href="mailto:premmehta7607@gmail.com">
+    <a href="mailto:rohitundhad4370@gmail.com">
         <img align="left" alt="Gmail" width="130" hight="100" src="/assets/gmail.png" />
     </a>
-    <a href="https://www.linkedin.com/in/pratikmehta07">
+    <a href="https://www.linkedin.com/in/rohit-undhad-3654a5311">
         <img align="left" alt="Linkedin" width="130" hight="100" src="/assets/linkedin.png" />
     </a>
 </p>
