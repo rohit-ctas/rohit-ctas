@@ -15,7 +15,7 @@ public class Rohit {
     public static void main(String[] args) {
         var moniker = "Bholu";
         var pronouns = "he/him";
-        var codeSkills = List.of("HTML", "CSS","C","Bootstrap","JavaScript","TypeScript","PHP","Python","Java","Asp.Net","MySql");
+        var codeSkills = List.of("HTML", "CSS","C","Bootstrap","JavaScript","TypeScript","PHP","Python","Java","Asp.Net","MySql","MUI");
         var tools = List.of("VS Code ", "GitHub Copilot","XCode");
         var interests = List.of( "AI", "Machine Learning", "Team Building","Server Management","Leadership");
         var currentOS = "Linux";
