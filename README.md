@@ -10,18 +10,21 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A bit more about myself...
 
-```javascript
-public class Rohit {
-    public static void main(String[] args) {
-        var moniker = "Bholu";
-        var pronouns = "he/him";
-        var codeSkills = List.of("HTML", "CSS","C","Bootstrap","JavaScript","TypeScript","PHP","Python","Java","Asp.Net","MySql","MUI");
-        var tools = List.of("VS Code ", "GitHub Copilot","XCode");
-        var interests = List.of( "AI", "Machine Learning", "Team Building","Server Management","Leadership");
-        var currentOS = "Linux";
-        var experience = "2 year in web dev";
-        var education = "Bachelor's in Computer Science";
-    }
+```rust
+fn main() {
+    let moniker = "Bholu";
+    let pronouns = "he/him";
+    let code_skills = vec![
+        "HTML", "CSS", "C", "Bootstrap", "JavaScript", "TypeScript", "PHP",
+        "Python", "Java", "Asp.Net", "MySql", "MUI",
+    ];
+    let tools = vec!["VS Code", "GitHub Copilot", "XCode"];
+    let interests = vec![
+        "AI", "Machine Learning", "Team Building", "Server Management", "Leadership",
+    ];
+    let current_os = "Linux";
+    let experience = "2 years in web dev";
+    let education = "Bachelor's in Computer Science";
 }
 
 ```
